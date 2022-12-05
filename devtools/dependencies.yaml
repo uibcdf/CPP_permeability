@@ -1,0 +1,9 @@
+- numpy
+- molsysmt
+- matplotlib
+- nglview
+- jupyterlab
+- openmm
+- mamba
+- tqdm
+
